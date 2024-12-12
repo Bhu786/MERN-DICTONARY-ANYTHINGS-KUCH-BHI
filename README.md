@@ -1,1 +1,18 @@
 # MERN-DICTONARY-ANYTHINGS-KUCH-BHI
+
+
+# {...XXX}
+1.KAHE HAI TOH MATLAB COPY KAR RAHA HAI 
+2. COPY YEH OBJECT SE KAR RAHA HAI {  }
+
+### EXAMPLE
+CONST SETTINGS={
+// XXXX
+};
+
+
+<Slider {...settings}>
+  {/* Slider Images */}
+</Slider>
+
+
